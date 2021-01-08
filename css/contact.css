@@ -1,0 +1,39 @@
+tr {
+  line-height: 7rem;
+}
+
+td {
+  padding-left: 1rem;
+}
+
+th {
+  width: 150px;
+  text-align: right;
+}
+
+input[type="text"] {
+  width: 480px;
+}
+
+textarea {
+  resize: vertical;
+  width: 480px;
+  vertical-align: middle
+}
+
+.btn-area{
+  text-align: center;
+}
+
+.button {
+  width: 70px;
+  height: 35px;
+  font-size: 2.5rem;
+  color: #ffffff;
+  background-color: darkcyan;
+  border: none;
+}
+
+.button:hover {
+  opacity: 0.6;
+}
